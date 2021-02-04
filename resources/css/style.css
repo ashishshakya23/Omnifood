@@ -213,15 +213,15 @@ margin-top:70px ;
 .works-step div{
     color:#e67e22; 
     border: 2px solid #e67e22 ;
-    display: inline-block;
+    display: block;
     border-radius: 50%;
     height:55px ;
     width: 55px;
     text-align: center;
-    padding: 5px;
-    float: left;
+    padding:5px;
     font-size:150% ;
     margin-right: 25px;
+    float: left;
 }
 .btn-app img{
     height: 50px;
